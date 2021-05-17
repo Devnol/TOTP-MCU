@@ -1,0 +1,1 @@
+add_library(TOTP-MCU sha1.c TOTP.c)
